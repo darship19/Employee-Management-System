@@ -118,7 +118,7 @@ CREATE TABLE work.employee (
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/darship19/Employee-Management-System)
    cd employee-management-api
    ```
 2. Build and run the application:
